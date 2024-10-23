@@ -1,2 +1,3 @@
 This is my first file
 Doing changes from Git Hub
+Doing changes from Git bash
